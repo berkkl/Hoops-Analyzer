@@ -42,4 +42,4 @@ Beşiktaş average scores per quarter: {'1P': 20.88888888888889, '2P': 18.333333
 - [ ] Modular Design: Refactor the code into smaller functions or even separate modules for better maintainability and
   readability. This also makes it easier to extend features in the future.
 - [ ] User Interface: For non-technical users, consider developing a simple graphical user interface (GUI) using
-  libraries like Tkinter or PyQt. This can make the tool more accessible to a broader audience.
+  libraries like Tkinter or PyQt.
